@@ -1,4 +1,4 @@
-class Ffmpeg < Formula
+class Ffmpeg253 < Formula
   homepage "https://ffmpeg.org/"
   url "https://www.ffmpeg.org/releases/ffmpeg-2.5.3.tar.bz2"
   sha1 "160d53a0d6b8df18336fac7f068c390ac2d34cef"
